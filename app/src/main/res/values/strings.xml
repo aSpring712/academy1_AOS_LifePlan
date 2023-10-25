@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LifePlan</string>
+    <string-array name="IdealType_array">
+        <item>Appearance(외모)</item>
+        <item>Ability(능력)</item>
+        <item>Personality(성격)</item>
+        <item>Lineage(가문)</item>
+        <item>Faith(신앙)</item>
+    </string-array>
+</resources>
